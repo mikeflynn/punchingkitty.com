@@ -1,0 +1,41 @@
+baseurl = "http://punchingkitty.com"
+url = "http://punchingkitty.com/"
+DefaultContentLanguage = "en"
+name = "Punching Kitty"
+title = "PUNCHING KITTY"
+description = "The gossip site St. Louis has always deserved!"
+theme = "beautifulhugo"
+
+[Params]
+  logo = "pk_logo.png"
+  subtitle = "The gossip site St. Louis has always deserved!"
+
+[[menu.main]]
+    name = "Home"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[[menu.main]]
+    name = "Media"
+    url = "/categories/media"
+    weight = 3
+
+[[menu.main]]
+    name = "Crime"
+    url = "/categories/crime"
+    weight = 3
+
+[[menu.main]]
+    name = "Sports"
+    url = "/categories/sports"
+    weight = 3
+
+[[menu.main]]
+    name = "Politics"
+    url = "/categories/politics"
+    weight = 3
