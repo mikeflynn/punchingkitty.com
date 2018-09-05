@@ -1,5 +1,5 @@
-baseurl = "http://punchingkitty.com"
-url = "http://punchingkitty.com/"
+baseurl = "https://punchingkitty.com"
+url = "https://punchingkitty.com/"
 DefaultContentLanguage = "en"
 name = "Punching Kitty"
 title = "PUNCHING KITTY"
@@ -37,5 +37,10 @@ theme = "beautifulhugo"
 
 [[menu.main]]
     name = "Politics"
-    url = "/categories/politics"
+    url = "/categories/capitalism-and-politics"
     weight = 3
+
+[[menu.main]]
+    name = "More"
+    url = "/categories/"
+    weight = 4
