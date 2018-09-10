@@ -11,8 +11,7 @@ twittercomments:
   - 'a:0:{}'
 
 ---
-[one_third]
-  
+
 Punching Kitty.com takes a fresh and humorous look at St. Louis news.  Think &#8220;The Daily Show&#8221;, but for St. Louis, and it&#8217;s written instead of a TV show&#8230;and there&#8217;s no Jon Stewart, but still totally awesome. We talk about about anything from local media to crime to awesome local events happening throughout the area and everything in between.
 
 We might be a little harsh, but its important to know, we are harsh on everyone.  No one gets a pass, so if you are the target today, just be cool, roll with the punches and have a laugh knowing that tomorrow, or even later today, it will be someone else!
@@ -32,10 +31,6 @@ Here are some quotes about Punching Kitty from around the web:
 <span style="font-size: 18px; color: #222222;">&#8220;Follow @punchingkitty if you want #STL gossip. Or if you&#8217;re into kinky blogging.&#8221;</span>
 
 <span style="font-size: 18px; color: #888888;">&#8220;I think I may have found my new favorite website. I kind of want to work there.&#8221;</span>
-  
-[/one_third]
-  
-[two\_third\_last]
 
 ## Press Mentions
 
@@ -44,17 +39,17 @@ If you would like to get a hold of us for an interview, questions about a stor
 ### STL Magazine: <a href="http://www.stlmag.com/St-Louis-Magazine/July-2011/A-List-2011/index.php?cparticle=6&siarticle=5#" target="_blank">2011 A-List Winner</a>
 
 > _blogger_
-  
+
 > **Mike Flynn, Punching Kitty**
-  
+
 > Three times daily, the blog Punching Kitty, run by Mike Flynn, points out the humorous, ironic, and just plain weird news of the day. Whether it’s commenting on a meth bust, the latest gossip, or captioning a photo of Albert Pujols in his whitey-tighties, Flynn keeps us coming back, wondering what he’s going to post next.
 
 ### STL Magazine: &#8220;<a href="http://www.stlmag.com/Blogs/Look-Listen/March-2011/Coming-out-Swinging/#" target="_blank">Coming out Swinging: Punching Kitty&#8217;s Mike Flynn</a>&#8220;
 
 > When [allegations started surfacing][1] that Rev. John Wieberg, who died in 1963, had molested children when he was a priest, the archdiocesan Review Board deemed the allegations as &#8220;credible.&#8221;
-> 
+>
 > This news got blogger Mike Flynn of punchingkitty.com [typing][2]: “[The allegations] better be credible, because getting your ass called out as a molester nearly 50 years after you died would suck butt (consenting adult butt of course) if you didn&#8217;t really do any of that.”
-> 
+>
 > As you can probably tell, the 29-year-old blogger doesn’t believe in sacred cows.
 
 ### KMOV: [Best Site That Made Fun of Virginia Kerr][3]
@@ -90,8 +85,7 @@ If you would like to get a hold of us for an interview, questions about a stor
 ### **Riverfront Times:** &#8220;<a href="http://www.riverfronttimes.com/2010-03-03/news/a-bloggers-bakers-dozen-rft-staff-sampler-st-louis-must-read-blogosphere/" target="_blank">A Blogger&#8217;s Baker&#8217;s Dozen: The RFT staff presents a sampler of St. Louis&#8217; must-read contributors to the blogosphere</a>&#8220;
 
 [<img class="aligncenter size-full wp-image-6319" title="rft_blogger_bakers_dozen" alt="" src="http://media.punchingkitty.com/wordpress/2010/08/rft_blogger_bakers_dozen.jpg" width="570" height="901" />][10]
-  
-[/two\_third\_last]
+
 
  [1]: http://news.stlpublicradio.org/post/archdiocese-st-louis-reaching-out-potential-victims-long-dead-priest
  [2]: http://punchingkitty.com/2011/03/22/archbishop-long-dead-priest-probably-touched-kids/
