@@ -29,7 +29,7 @@ KDSK has never been a great place to go and get news. We knew that, they knew th
 That is supposed to be an article...we think. In actuality it's closer to a tweet that was broken in half and shoved in to a pile of advertisements. This version might help when we highlight the non-advertorial content...
 
 
-![ksdk sad article page with ads circled](/images/2018/09/ksdk_article_ads.jpg)
+![ksdk sad article page with ads circled](/images/2018/09/ksdk_article_content.jpg)
 
 Thank god they include those share buttons so you can get a link of this page on Twitter or Facebook in case your friends were just thinking "Ya know what? My Facebook feed isn't quite as eye-bleedingly terrible as it could be."
 
