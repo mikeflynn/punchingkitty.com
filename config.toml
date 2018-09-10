@@ -5,6 +5,7 @@ name = "Punching Kitty"
 title = "PUNCHING KITTY"
 description = "The gossip site St. Louis has always deserved!"
 theme = "beautifulhugo"
+googleAnalytics = "UA-7451307-1"
 
 [Params]
   logo = "pk_logo.png"
