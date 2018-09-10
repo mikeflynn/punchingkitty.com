@@ -4,7 +4,7 @@ author: The Editor
 type: post
 date: 2018-09-09T14:55:01+00:00
 url: /2014/02/27/five-on-your-side-has-full-blown-ads/
-featured_image: http://media.punchingkitty.com/wordpress/2014/02/snow_bad_teeth_guy.jpg
+featured_image: /images/2018/09/ksdk_logo_2018.jpg
 categories:
   - Media
 tags:
