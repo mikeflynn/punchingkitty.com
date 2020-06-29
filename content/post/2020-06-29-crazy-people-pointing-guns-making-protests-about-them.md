@@ -16,7 +16,7 @@ Hey everybody! Been a while. What's going on?
 
 ![Patricia McCloskey](/images/2020/06/cwe_crazy_rich_people_002.jpg)
 
-Oh...ok, cool. So just the same old stuff then? Got it.
+Oh...ok, cool. So just like usual stuff then? Got it.
 
 > Video of Mark McCloskey and Patricia McCloskey pointing guns at protesters walking by their home in St. Louis, Missouri on June 28, went viral on Twitter. The married couple, who work together as personal injury trial lawyers, came out of their house armed on Sunday to prevent protesters from walking onto their property in the Forest Park area.
 
@@ -34,6 +34,6 @@ Where will this all lead? Who knows. Oh wait, we have a really good guess: They 
 
 They'll be fine and yeah, maybe that crap see in their yard every morning does look a little too big to be from a dog, but it _could_ be a dog. Yeah, it's probably a dog. I wouldn't worry about it.
 
-Via [Heavy](https://heavy.com/news/2020/06/mark-patricia-mccloskey-st-louis-couple-guns-video/), [KSDK](https://www.ksdk.com/article/news/local/couple-points-guns-at-protesters-st-louis/63-915a4a2f-071f-4f01-b5b8-398790d615ca) (who's article really wasn't about the random people pointing guns at peaceful protesters at all), and [thousands of people making fun of these dipshits on Twitter](https://twitter.com/search?q=McCloskey&src=typed_query)
+Via [Heavy](https://heavy.com/news/2020/06/mark-patricia-mccloskey-st-louis-couple-guns-video/), [KSDK](https://www.ksdk.com/article/news/local/couple-points-guns-at-protesters-st-louis/63-915a4a2f-071f-4f01-b5b8-398790d615ca) (who's article really wasn't about the random people pointing guns at peaceful protesters at all), [Reddit](https://www.reddit.com/r/PublicFreakout/comments/hhqeh0/couple_outside_their_house_with_guns_to_deter_st/), and [thousands of people making fun of these dipshits on Twitter](https://twitter.com/search?q=McCloskey&src=typed_query)
 
 Photos by Bill Greenblatt/UPI
