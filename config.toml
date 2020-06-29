@@ -12,7 +12,7 @@ googleAnalytics = "UA-7451307-1"
   subtitle = "The gossip site St. Louis has always deserved!"
   rss = true
   favicon = "/favicon.ico"
-  mainSections = ["posts"]
+  mainSections = ["post"]
 
 [Author]
   name = "The Editor"
