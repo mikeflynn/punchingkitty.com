@@ -19,6 +19,9 @@ googleAnalytics = "UA-7451307-1"
   twitter = "punchingkitty"
   facebook = "punchingkitty"
 
+[markup.goldmark.renderer]
+    unsafe = true
+
 [[menu.main]]
     name = "Home"
     url = ""
