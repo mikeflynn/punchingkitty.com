@@ -1,6 +1,7 @@
-#!/bin/sh
+#!/usr/bin/env bash
+
 USER="mikeflynn"
-HOST="carlin.flynn.link"
+HOST="carlin"
 DIR="/home/www/punchingkitty.com/public/"
 
 hugo && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
