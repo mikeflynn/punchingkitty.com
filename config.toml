@@ -8,51 +8,51 @@ theme = "beautifulhugo"
 googleAnalytics = "UA-7451307-1"
 
 [Params]
-  logo = "pk_logo.png"
-  subtitle = "The gossip site St. Louis has always deserved!"
-  rss = true
-  favicon = "/favicon.ico"
-  mainSections = ["post"]
+#logo = "pk_logo.png"
+subtitle = "The gossip site St. Louis has always deserved!"
+rss = true
+favicon = "/favicon.ico"
+mainSections = ["post"]
 
 [Author]
-  name = "The Editor"
-  twitter = "punchingkitty"
-  facebook = "punchingkitty"
+name = "The Editor"
+twitter = "punchingkitty"
+facebook = "punchingkitty"
 
 [markup.goldmark.renderer]
-    unsafe = true
+unsafe = true
 
 [[menu.main]]
-    name = "Home"
-    url = ""
-    weight = 1
+name = "Home"
+url = ""
+weight = 1
 
 [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 3
+name = "About"
+url = "/about/"
+weight = 3
 
 [[menu.main]]
-    name = "Media"
-    url = "/categories/media"
-    weight = 3
+name = "Media"
+url = "/categories/media"
+weight = 3
 
 [[menu.main]]
-    name = "Crime"
-    url = "/categories/crime"
-    weight = 3
+name = "Crime"
+url = "/categories/crime"
+weight = 3
 
 [[menu.main]]
-    name = "Sports"
-    url = "/categories/sports"
-    weight = 3
+name = "Sports"
+url = "/categories/sports"
+weight = 3
 
 [[menu.main]]
-    name = "Politics"
-    url = "/categories/capitalism-and-politics"
-    weight = 3
+name = "Politics"
+url = "/categories/capitalism-and-politics"
+weight = 3
 
 [[menu.main]]
-    name = "More"
-    url = "/categories/"
-    weight = 4
+name = "More"
+url = "/categories/"
+weight = 4

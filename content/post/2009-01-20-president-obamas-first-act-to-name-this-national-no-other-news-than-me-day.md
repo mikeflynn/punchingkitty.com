@@ -16,8 +16,8 @@ tags:
   - inauguration
   - obama
   - president
-
 ---
+
 <p style="text-align: center;">
   <img class="aligncenter size-full wp-image-56" title="obama" src="http://punchingkitty.com/wp-content/uploads/2009/01/obama.jpg" alt="obama" width="526" height="369" srcset="http://media.punchingkitty.com/wordpress/2009/01/obama.jpg 658w, http://media.punchingkitty.com/wordpress/2009/01/obama-300x210.jpg 300w" sizes="(max-width: 526px) 100vw, 526px" />
 </p>
