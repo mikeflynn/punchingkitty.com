@@ -1,0 +1,23 @@
+{{ define "header" }}<!-- No header on 404 pages -->{{ end }} {{ define "main"
+}}
+<div role="main" class="container main-content">
+  <div class="text-center">
+    <div class="error-cat"></div>
+    <h2 class="error-text">{{ i18n "pageNotFound" }}</h2>
+  </div>
+</div>
+<script>
+  var errorCatContainer = document.getElementsByClassName("error-cat")[0];
+  var catArray = [
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm5hMDFneTF6bnJ2bWpzczd6dm4xZ2loamx2cHR3MHRlZmE2Zjg0eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TZBED1pP5m8N2/giphy.gif",
+    "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW9oY2dpYWI1MjZ6eXhvaDU4cW04ODZxazg4Mjc1bGQ1bm16bm4waiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ASvQ3A2Q7blzq/giphy.gif",
+    "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3k2cGgwdnN0bXJzNXZqZ2ZxbW53M291NTE3czk0bWV6ODAwdHpiMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qy7tP5FZZXAN0SR5uc/giphy.gif",
+  ];
+  var errorCat = catArray[Math.floor(Math.random() * catArray.length)];
+  var img = document.createElement("img");
+  img.src = errorCat;
+  img.style.width = "600px";
+
+  errorCatContainer.appendChild(img);
+</script>
+{{ end }}
